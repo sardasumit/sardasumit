@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![sardasumit's github stats](https://github-readme-stats.vercel.app/api?username=sardasumit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sardasumit/github-readme-stats)
+<p> <img src="https://komarev.com/ghpvc/?username=sardasumit" alt="sardasumit" /> </p>
